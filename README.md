@@ -3,18 +3,19 @@
 
 ###Useful
 Some of these apps can be installed easily with [Get Mac Apps](http://www.getmacapps.com/) and CLI.
+You also can use [Homebrew](https://brew.sh/) and [Caskroom](https://caskroom.github.io/) extension.
 
 👇 See the complete list if you missed your favorite soft! 👇
 
 
 ###Adobe Suite
 #####I only use these 🐶 :
-- After Effects
-- Photoshop
-- Illustrator
-- InDesign
-- Premiere
-- Media Encoder
+- [After Effects](http://www.adobe.com/fr/products/aftereffects.html)
+- [Photoshop](http://www.adobe.com/fr/products/photoshop.html)
+- [Illustrator](http://www.adobe.com/fr/products/illustrator.html)
+- [InDesign](http://www.adobe.com/fr/products/indesign.html)
+- [Premiere](http://www.adobe.com/fr/products/premiere.html)
+- [Media Encoder](http://www.adobe.com/fr/products/media-encoder.html)
 
 ###💻 Dev
 - [Github Desktop](https://desktop.github.com/)
@@ -40,20 +41,17 @@ Some of these apps can be installed easily with [Get Mac Apps](http://www.getmac
 - [Atom](https://atom.io/)
 - [p5.js](http://p5js.org/download/)
 
-
-
 ###🎼 Music
-- Ableton Live
+- [Ableton Live](https://www.ableton.com/en/live/)
 - [Audio Hijack](https://www.rogueamoeba.com/audiohijack/buy.php)
 - [Spotify](https://www.spotify.com/fr/download/mac/)
-- Traktor
+- [Traktor](https://www.native-instruments.com/fr/products/traktor/dj-software/traktor-pro-2/)
 
 ###🌍 Web
 - [Firefox](https://www.mozilla.org/en-US/firefox/all/#fr)
 - [Chrome](https://www.google.com/chrome/browser/desktop/index.html)
 - [Filezilla](https://filezilla-project.org/download.php?type=client)
 - [TunnelBear](https://www.tunnelbear.com/download)
-
 
 ###🛠 Utilities
 - [Alfred](https://www.alfredapp.com/)
@@ -66,23 +64,23 @@ Some of these apps can be installed easily with [Get Mac Apps](http://www.getmac
 - [VLC](https://www.videolan.org/vlc/)
 
 ###🖌 Design & Text Editor
-- ByWord
-- Sketch
-- Keynote
-- Pages
+- [ByWord](https://www.bywordapp.com/)
+- [Sketch](https://www.sketchapp.com/)
+- [Keynote](http://www.apple.com/fr/keynote/)
+- [Pages](http://www.apple.com/fr/pages/)
 
 
 ###💬 Messaging
-- Airmail
-- Skype
-- Slack
-- Telegram
+- [Airmail](http://airmailapp.com/)
+- [Slack](https://slack.com/is)
+- [Telegram](https://telegram.org/)
+- *For visual and online chat, I use* [Talky](https://talky.io/)
 
 
 ###❓Others
-- Skanect
-- VideoGrep
+- [Skanect](http://skanect.occipital.com/)
+- [VideoGrep](https://github.com/antiboredom/videogrep)
 
 ###⚠️ Don't Forget!
-- Installing NodeJs and NPM
-- Installing Git
+- Installing [NodeJs](https://nodejs.org/en/) and NPM
+- Installing [Git](https://git-scm.com/book/en/v2/Getting-Started-Installing-Git#Installing-on-Mac)
