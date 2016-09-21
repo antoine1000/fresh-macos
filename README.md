@@ -17,7 +17,7 @@ Some of these apps can be installed easily with [Get Mac Apps](http://www.getmac
 - Media Encoder
 
 ###💻 Dev
-- [Github Dekstop](https://desktop.github.com/)
+- [Github Desktop](https://desktop.github.com/)
 - [PureData](https://puredata.info/downloads)
 - [Processing](https://processing.org/download/?processing)
 
