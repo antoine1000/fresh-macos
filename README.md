@@ -1,6 +1,10 @@
 <h1 align="center"> clean software </h1>
 <p align="center">💿 - Every software I need after a fresh <b>clean install</b> 💫</p>
 
+###Legend
+
+© = Proprietary software   /   🆓 = Open Source Software   /   $ = You have to pay for the software.
+
 ###Useful
 Some of these apps can be installed easily with [Get Mac Apps](http://www.getmacapps.com/) and CLI.
 You also can use [Homebrew](https://brew.sh/) and [Caskroom](https://caskroom.github.io/) extension.
@@ -19,8 +23,8 @@ You also can use [Homebrew](https://brew.sh/) and [Caskroom](https://caskroom.gi
 
 ###💻 Dev
 - [Github Desktop](https://desktop.github.com/)
-- [PureData](https://puredata.info/downloads)
-- [Processing](https://processing.org/download/?processing)
+- [PureData](https://puredata.info/downloads) 🆓
+- [Processing](https://processing.org/download/?processing) 🆓
 
 #####📚 Processing Libraries
 - Ani
@@ -38,8 +42,8 @@ You also can use [Homebrew](https://brew.sh/) and [Caskroom](https://caskroom.gi
 - Toxiclibs
 
 #####📝 Code Editor
-- [Atom](https://atom.io/)
-- [p5.js](http://p5js.org/download/)
+- [Atom](https://atom.io/) 🆓
+- [p5.js](http://p5js.org/download/) 🆓
 
 ###🎼 Music
 - [Ableton Live](https://www.ableton.com/en/live/)
@@ -48,9 +52,9 @@ You also can use [Homebrew](https://brew.sh/) and [Caskroom](https://caskroom.gi
 - [Traktor](https://www.native-instruments.com/fr/products/traktor/dj-software/traktor-pro-2/)
 
 ###🌍 Web
-- [Firefox](https://www.mozilla.org/en-US/firefox/all/#fr)
+- [Firefox](https://www.mozilla.org/en-US/firefox/all/#fr) 🆓
 - [Chrome](https://www.google.com/chrome/browser/desktop/index.html)
-- [Filezilla](https://filezilla-project.org/download.php?type=client)
+- [Filezilla](https://filezilla-project.org/download.php?type=client) 🆓
 - [TunnelBear](https://www.tunnelbear.com/download)
 
 ###🛠 Utilities
@@ -58,10 +62,10 @@ You also can use [Homebrew](https://brew.sh/) and [Caskroom](https://caskroom.gi
 - [App Cleaner](https://freemacsoft.net/appcleaner/)
 - GifGrabber
 - [Flux](https://justgetflux.com/)
-- [Onyx](http://www.titanium.free.fr/onyx.html)
+- [Onyx](http://www.titanium.free.fr/onyx.html) 🆓
 - [Transmission](https://transmissionbt.com/)
 - [The Unarchiver](http://the-unarchiver.fr.softonic.com/mac)
-- [VLC](https://www.videolan.org/vlc/)
+- [VLC](https://www.videolan.org/vlc/) 🆓
 
 ###🖌 Design & Text Editor
 - [ByWord](https://www.bywordapp.com/)
@@ -73,13 +77,13 @@ You also can use [Homebrew](https://brew.sh/) and [Caskroom](https://caskroom.gi
 ###💬 Messaging
 - [Airmail](http://airmailapp.com/)
 - [Slack](https://slack.com/is)
-- [Telegram](https://telegram.org/)
+- [Telegram](https://telegram.org/) 🆓
 - *For visual and online chat, I use* [Talky](https://talky.io/)
 
 
 ###❓Others
 - [Skanect](http://skanect.occipital.com/)
-- [VideoGrep](https://github.com/antiboredom/videogrep)
+- [VideoGrep](https://github.com/antiboredom/videogrep) 🆓
 
 ###⚠️ Don't Forget!
 - Installing [NodeJs](https://nodejs.org/en/) and NPM
