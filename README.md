@@ -22,7 +22,7 @@ You also can use [Homebrew](https://brew.sh/) and [Caskroom](https://caskroom.gi
 - [Media Encoder](http://www.adobe.com/fr/products/media-encoder.html) $ and ©
 
 ###💻 Dev
-- [Github Desktop](https://desktop.github.com/) 0$
+- [Github Desktop](https://desktop.github.com/) 0$ *but* ©
 - [PureData](https://puredata.info/downloads) 0$ and 🆓
 - [Processing](https://processing.org/download/?processing) 0$ and 🆓
 
@@ -55,7 +55,7 @@ You also can use [Homebrew](https://brew.sh/) and [Caskroom](https://caskroom.gi
 - [Firefox](https://www.mozilla.org/en-US/firefox/all/#fr) 0$ and 🆓
 - [Chrome](https://www.google.com/chrome/browser/desktop/index.html) 0$ *but* ©
 - [Filezilla](https://filezilla-project.org/download.php?type=client) 0$ and 🆓
-- [TunnelBear](https://www.tunnelbear.com/download)
+- [TunnelBear](https://www.tunnelbear.com/download) 0$ *but* ©
 
 ###🛠 Utilities
 - [Alfred](https://www.alfredapp.com/) 0$ *but* ©
@@ -78,7 +78,7 @@ You also can use [Homebrew](https://brew.sh/) and [Caskroom](https://caskroom.gi
 - [Airmail](http://airmailapp.com/) $ and ©
 - [Slack](https://slack.com/is) 0$ *but* ©
 - [Telegram](https://telegram.org/) 0$ and *partially* 🆓
-- *For visual and online chat, I use* [Talky](https://talky.io/)
+- *For visual and online chat, I use* [Talky](https://talky.io/) 0$ *but* ©
 
 
 ###❓Others
