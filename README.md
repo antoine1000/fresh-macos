@@ -41,6 +41,17 @@ You also can use [Homebrew](https://brew.sh/) and [Caskroom](https://caskroom.gi
 - The Midi Bus
 - Toxiclibs
 
+#####🐍 Python (v2.7 & v3.5)
+- scikit-learn
+- NumPy
+- SciPy
+- Jupyter Notebook
+- matplotlib
+- pandas
+- mglearn
+
+> or just use [Anaconda](https://www.continuum.io/downloads) to download all of these as a bundle
+
 #####📝 Code Editor
 - [Atom](https://atom.io/) 0$ and 🆓
 - [p5.js](http://p5js.org/download/) 0$ and 🆓
