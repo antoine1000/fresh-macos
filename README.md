@@ -25,6 +25,13 @@ You also can use [Homebrew](https://brew.sh/) and [Caskroom](https://caskroom.gi
 - [Github Desktop](https://desktop.github.com/) 0$ *but* ©
 - [PureData](https://puredata.info/downloads) 0$ and 🆓
 - [Processing](https://processing.org/download/?processing) 0$ and 🆓
+- [iTerm 2](https://iterm2.com/) 0$ and 🆓
+
+#####⚙ iTerm Setup
+- [Follow these instructions](http://jilles.me/badassify-your-terminal-and-shell/)
+- [oh-my-zsh](https://github.com/robbyrussell/oh-my-zsh)
+- [Color Schemes](https://github.com/mbadolato/iTerm2-Color-Schemes)
+
 
 #####📚 Processing Libraries
 - Ani
