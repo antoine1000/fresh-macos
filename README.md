@@ -98,6 +98,9 @@ You also can use [Homebrew](https://brew.sh/) and [Caskroom](https://caskroom.gi
 - [Telegram](https://telegram.org/) 0$ and *partially* 🆓
 - *For visual and online chat, I use* [Talky](https://talky.io/) 0$ *but* ©
 
+###🍇 Raspberry Pi
+- [Raspbian](https://www.raspberrypi.org/downloads/raspbian/) 0$ and 🆓
+- [Etcher](https://etcher.io/) 0$ and 🆓
 
 ###❓Others
 - [Skanect](http://skanect.occipital.com/) $ and © (but *free trial*)
