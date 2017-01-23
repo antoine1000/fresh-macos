@@ -101,6 +101,7 @@ You also can use [Homebrew](https://brew.sh/) and [Caskroom](https://caskroom.gi
 ###🍇 Raspberry Pi
 - [Raspbian](https://www.raspberrypi.org/downloads/raspbian/) 0$ and 🆓
 - [Etcher](https://etcher.io/) 0$ and 🆓
+- [VNC](https://www.realvnc.com/download/vnc/) 0$ *but* ©
 
 ###❓Others
 - [Skanect](http://skanect.occipital.com/) $ and © (but *free trial*)
