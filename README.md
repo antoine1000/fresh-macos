@@ -103,9 +103,15 @@ You also can use [Homebrew](https://brew.sh/) and [Caskroom](https://caskroom.gi
 - [Etcher](https://etcher.io/) 0$ and 🆓
 - [VNC](https://www.realvnc.com/download/vnc/) 0$ *but* ©
 
+###🎥 Kinect
+- [Zadig](http://zadig.akeo.ie/) 0$ and 🆓 (Windows ONLY)
+- [OpenNI](https://structure.io/openni) 0$ *but* ©
+
+For Linux, see this [setup guide](https://www.kdab.com/setting-up-kinect-for-programming-in-linux-part-1/).
+
 ###❓Others
 - [Skanect](http://skanect.occipital.com/) $ and © (but *free trial*)
-- [VideoGrep](https://github.com/antiboredom/videogrep) 0$ and 🆓
+- [VideoGrep](https://github.com/antiboredom/videogrep) 0$ but 🆓
 
 ###⚠️ Don't Forget!
 - Installing [NodeJs](https://nodejs.org/en/) and NPM
