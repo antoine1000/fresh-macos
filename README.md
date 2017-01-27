@@ -114,7 +114,7 @@ For Linux, see this [setup guide](https://www.kdab.com/setting-up-kinect-for-pro
 - [VideoGrep](https://github.com/antiboredom/videogrep) 0$ but 🆓
 
 ###⚠️ Don't Forget!
-- Installing [NodeJs](https://nodejs.org/en/) and NPM
+- Installing [NodeJs](https://nodejs.org/en/) and NPM (via [package manager](https://nodejs.org/en/download/package-manager/#debian-and-ubuntu-based-linux-distributions)
 - Installing [Git](https://git-scm.com/book/en/v2/Getting-Started-Installing-Git#Installing-on-Mac)
 
 ###♥️🆓 Open Source ?
