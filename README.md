@@ -117,5 +117,5 @@ For Linux, see this [setup guide](https://www.kdab.com/setting-up-kinect-for-pro
 - Installing [NodeJs](https://nodejs.org/en/) and NPM (via [package manager](https://nodejs.org/en/download/package-manager/#debian-and-ubuntu-based-linux-distributions))
 - Installing [Git](https://git-scm.com/book/en/v2/Getting-Started-Installing-Git#Installing-on-Mac)
 
-###♥️🆓 Open Source ?
+### ♥️🆓 Open Source ?
 If you are an open-source addict, maybe you can find an alternative of my propietary software's selection at http://alternativeto.net/ 
