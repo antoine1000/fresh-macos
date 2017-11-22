@@ -62,6 +62,7 @@ You also can use [Homebrew](https://brew.sh/) and [Caskroom](https://caskroom.gi
 
 ##### 📝 Code Editor
 - [Atom](https://atom.io/) 0$ and 🆓
+- [Sublime Text 3](https://www.sublimetext.com/) 0$ but ©
 - [p5.js](http://p5js.org/download/) 0$ and 🆓
 
 ### 🎼 Music
@@ -85,6 +86,7 @@ You also can use [Homebrew](https://brew.sh/) and [Caskroom](https://caskroom.gi
 - [Transmission](https://transmissionbt.com/) 0$ and 🆓
 - [The Unarchiver](http://unarchiver.c3.cx/) 0$ and 🆓
 - [VLC](https://www.videolan.org/vlc/) 0$ and 🆓
+- [Handbrake](https://handbrake.fr/) 0$ and 🆓
 
 ### 🖌 Design & Text Editor
 - [ByWord](https://www.bywordapp.com/) $ and ©
@@ -112,7 +114,8 @@ For Linux, see this [setup guide](https://www.kdab.com/setting-up-kinect-for-pro
 
 ### ❓Others
 - [Skanect](http://skanect.occipital.com/) $ and © (but *free trial*)
-- [VideoGrep](https://github.com/antiboredom/videogrep) 0$ but 🆓
+- [VideoGrep](https://github.com/antiboredom/videogrep) 0$ and 🆓
+- [Blender](https://www.blender.org/) 0$ and 🆓
 
 ### ⚠️ Don't Forget!
 - Installing [NodeJs](https://nodejs.org/en/) and NPM (via [package manager](https://nodejs.org/en/download/package-manager/#debian-and-ubuntu-based-linux-distributions))
