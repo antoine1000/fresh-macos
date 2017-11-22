@@ -122,6 +122,7 @@ For Linux, see this [setup guide](https://www.kdab.com/setting-up-kinect-for-pro
 - Installing [Git](https://git-scm.com/book/en/v2/Getting-Started-Installing-Git#Installing-on-Mac)
 - Installing [PHP](http://windows.php.net/download) and set the variable PATH environment (Windows)
 - Installing [FFMPEG](https://ffmpeg.org/download.html#build-windows) and set the variable PATH environment (Windows)
+- Installing [youtube-dl](https://github.com/rg3/youtube-dl/blob/master/README.md#readme)
 
 ### ♥️🆓 Open Source ?
 If you are an open-source addict, maybe you can find an alternative of my propietary software's selection at http://alternativeto.net/ 
