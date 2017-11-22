@@ -26,6 +26,7 @@ You also can use [Homebrew](https://brew.sh/) and [Caskroom](https://caskroom.gi
 - [PureData](https://puredata.info/downloads) 0$ and 🆓
 - [Processing](https://processing.org/download/?processing) 0$ and 🆓
 - [iTerm 2](https://iterm2.com/) 0$ and 🆓
+- [Clink](https://github.com/mridgers/clink) 0$ and 🆓 (Windows)
 
 ##### ⚙ iTerm Setup
 - [Follow these instructions](http://jilles.me/badassify-your-terminal-and-shell/)
@@ -116,6 +117,8 @@ For Linux, see this [setup guide](https://www.kdab.com/setting-up-kinect-for-pro
 ### ⚠️ Don't Forget!
 - Installing [NodeJs](https://nodejs.org/en/) and NPM (via [package manager](https://nodejs.org/en/download/package-manager/#debian-and-ubuntu-based-linux-distributions))
 - Installing [Git](https://git-scm.com/book/en/v2/Getting-Started-Installing-Git#Installing-on-Mac)
+- Installing [PHP](http://windows.php.net/download) and set the variable PATH environment (Windows)
+- Installing [FFMPEG](https://ffmpeg.org/download.html#build-windows) and set the variable PATH environment (Windows)
 
 ### ♥️🆓 Open Source ?
 If you are an open-source addict, maybe you can find an alternative of my propietary software's selection at http://alternativeto.net/ 
