@@ -26,7 +26,8 @@ You also can use [Homebrew](https://brew.sh/) and [Caskroom](https://caskroom.gi
 - [PureData](https://puredata.info/downloads) 0$ and 🆓
 - [Processing](https://processing.org/download/?processing) 0$ and 🆓
 - [iTerm 2](https://iterm2.com/) 0$ and 🆓
-- [Clink](https://github.com/mridgers/clink) 0$ and 🆓 (Windows)
+- [Sourcetree](https://www.sourcetreeapp.com/) 0$
+- [Clink](https://github.com/mridgers/clink) 0$ and 🆓 (Windows only)
 
 ##### ⚙ iTerm Setup
 - [Follow these instructions](http://jilles.me/badassify-your-terminal-and-shell/)
@@ -61,8 +62,7 @@ You also can use [Homebrew](https://brew.sh/) and [Caskroom](https://caskroom.gi
 > or just use [Anaconda](https://www.continuum.io/downloads) to download all of these as a bundle
 
 ##### 📝 Code Editor
-- [Atom](https://atom.io/) 0$ and 🆓
-- [Sublime Text 3](https://www.sublimetext.com/) 0$ but ©
+- [Visual Code](https://code.visualstudio.com/) 🆓
 - [p5.js](http://p5js.org/download/) 0$ and 🆓
 
 ### 🎼 Music
@@ -87,6 +87,7 @@ You also can use [Homebrew](https://brew.sh/) and [Caskroom](https://caskroom.gi
 - [The Unarchiver](http://unarchiver.c3.cx/) 0$ and 🆓
 - [VLC](https://www.videolan.org/vlc/) 0$ and 🆓
 - [Handbrake](https://handbrake.fr/) 0$ and 🆓
+- [Kap](https://getkap.co/) 0$ and 🆓
 
 ### 🖌 Design & Text Editor
 - [ByWord](https://www.bywordapp.com/) $ and ©
@@ -94,9 +95,8 @@ You also can use [Homebrew](https://brew.sh/) and [Caskroom](https://caskroom.gi
 - [Keynote](http://www.apple.com/fr/keynote/) $ and ©
 - [Pages](http://www.apple.com/fr/pages/) $ and ©
 
-
 ### 💬 Messaging
-- [Airmail](http://airmailapp.com/) $ and ©
+- [Spark](https://sparkmailapp.com/fr) 🆓 but ©
 - [Slack](https://slack.com/is) 0$ *but* ©
 - [Telegram](https://telegram.org/) 0$ and *partially* 🆓
 - *For visual and online chat, I use* [Talky](https://talky.io/) 0$ *but* ©
@@ -120,6 +120,7 @@ For Linux, see this [setup guide](https://www.kdab.com/setting-up-kinect-for-pro
 ### ⚠️ Don't Forget!
 - Installing [NodeJs](https://nodejs.org/en/) and NPM (via [package manager](https://nodejs.org/en/download/package-manager/#debian-and-ubuntu-based-linux-distributions))
 - Installing [Git](https://git-scm.com/book/en/v2/Getting-Started-Installing-Git#Installing-on-Mac)
+- Installing [Yarn](https://yarnpkg.com/fr/) 
 - Installing [PHP](http://windows.php.net/download) and set the variable PATH environment (Windows)
 - Installing [FFMPEG](https://ffmpeg.org/download.html#build-windows) and set the variable PATH environment (Windows)
 - Installing [youtube-dl](https://github.com/rg3/youtube-dl/blob/master/README.md#readme)
