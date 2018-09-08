@@ -88,6 +88,7 @@ You also can use [Homebrew](https://brew.sh/) and [Caskroom](https://caskroom.gi
 - [VLC](https://www.videolan.org/vlc/) 0$ and 🆓
 - [Handbrake](https://handbrake.fr/) 0$ and 🆓
 - [Kap](https://getkap.co/) 0$ and 🆓
+- [Little Snitch](https://www.obdev.at/products/littlesnitch/index.html) $ and ©
 
 ### 🖌 Design & Text Editor
 - [ByWord](https://www.bywordapp.com/) $ and ©
