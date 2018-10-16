@@ -32,7 +32,9 @@ You also can use [Homebrew](https://brew.sh/) and [Caskroom](https://caskroom.gi
 ##### ⚙ iTerm Setup
 - [Follow these instructions](http://jilles.me/badassify-your-terminal-and-shell/)
 - [oh-my-zsh](https://github.com/robbyrussell/oh-my-zsh)
+  - THEME = theunraveler
 - [Color Schemes](https://github.com/mbadolato/iTerm2-Color-Schemes)
+  - SCHEME = Tommorow Night Eighties
 
 
 ##### 📚 Processing Libraries
