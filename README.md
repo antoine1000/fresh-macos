@@ -8,6 +8,7 @@
 ### Useful
 Some of these apps can be installed easily with [Get Mac Apps](http://www.getmacapps.com/) and CLI.
 You also can use [Homebrew](https://brew.sh/) and [Caskroom](https://caskroom.github.io/) extension.
+See also this useful article from Tania Rascia → [Setting up a brand new Mac for development](https://www.taniarascia.com/setting-up-a-brand-new-mac-for-development/)
 
 👇 See the complete list if you missed your favorite soft! 👇
 
