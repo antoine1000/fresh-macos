@@ -1,4 +1,4 @@
-<h1 align="center"> clean software </h1>
+<h1 align="center"> fresh macos </h1>
 <p align="center">💿 - Every software I need after a fresh <b>clean install</b> 💫</p>
 
 ### Legend
